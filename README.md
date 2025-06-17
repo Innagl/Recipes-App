@@ -12,6 +12,7 @@ TECHNOLOGIES USED:
   HTML5
   CSS3
   JavaScript
+  Design: Figma
 
 HOW IT WORKS:
   The app listens to the user's input (keyup event).
